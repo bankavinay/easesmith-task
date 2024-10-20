@@ -36,7 +36,7 @@ const Navbar = () => {
             <h4 className="top-text-nav-1">
               Free Shipping on orders above 999/-
             </h4>
-            <h4 className="top-text-nav-2">call us on: +918500548260</h4>
+            <h4 className="top-text-nav-2">call us on: +916302821823</h4>
           </div>
         </div>
         <div className="nav-main-container">
